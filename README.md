@@ -7,6 +7,7 @@ Convert audio files to .wav format.
 ## Requirement
 - macOS
 - Python 3.7
+- pydub 0.23.1
 
 
 ## Installation
